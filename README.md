@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho como analista de MIS.
 - 🌱 Estou estudando Pyhton.
-- 😄 Pronouns: ele/dele
+- 😄 Pronouns: ele/dele.
 
 <div align="center">
   <a href="https://github.com/cristianoajr">
