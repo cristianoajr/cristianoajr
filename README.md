@@ -1,6 +1,6 @@
-### Olá! Eu sou Cristiano Alves estudante de programação e analista de dados!  👋
+### Olá! Eu sou Cristiano Alves estudante de programação e analista de MIS!  👋
 
-- 🔭 Hoje trabalho como analista de dados.
+- 🔭 Hoje trabalho como analista de MIS.
 - 🌱 Estou estudando Pyhton.
 - 😄 Pronouns: ele/dele
 
