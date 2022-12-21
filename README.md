@@ -14,7 +14,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=cristianoajr&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
  
-<div align="center"> 
+<div align="center">
+  <a href="https://twitter.com/cristianoajr" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/cristianoajr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/cristiano-alves-438534158/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  </div>
