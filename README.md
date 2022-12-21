@@ -25,7 +25,7 @@
 <img alt="SQLServer" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
 <img alt="Oracle Database" src="https://img.shields.io/badge/Oracle_Database-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-<img alt="Power BI" src="https://img.shields.io/badge/PowerBI-f2c811?style=for-the-badge&logo=powerbi&logoColor=black">
+<img alt="Power BI" src="https://img.shields.io/badge/Power_BI-f2c811?style=for-the-badge&logo=powerbi&logoColor=black">
  </div>
   
 ### Studying in this moment:
