@@ -8,7 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianoajr&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-![Snake animation](https://github.com/cristianoajr/cristianoajr/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/cristianoajr/cristianoajr/blob/output/github-contribution-grid-snake-dark.svg)
   
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=cristianoajr&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
@@ -32,8 +32,6 @@
 ### Studying in this moment:
 <div>
 <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-<img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
 
 <div align="center">
